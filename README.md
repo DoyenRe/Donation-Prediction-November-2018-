@@ -1,8 +1,11 @@
-# Donation-Prediction-November-2018
+# Donation-Prediction-November-2018 (R)
 
 Predictive Model to predict donor for a non-profit organization reactivation campaign. Based on the collected data, the goal
 was to predict which persons will make a donation of more than 35€. 
 
+one can find two files in this repository: 
+A R script
+A PowerPoint Presentation.
 
 Steps: 
 
