@@ -14,7 +14,7 @@ Steps:
 3) Forward Stepwise for Variable Selection
 4) Logistic Regression
 5) Random Forest
-6) Model Evaluation: Cumulative Gain & Lift Curve
+6) Model Evaluation: AUC (=0.64), Cumulative Gain & Lift Curve
 6) Predict Insight Graph to interpret the results.
 
 Results: With our model, we estimated that the company could expect to earn a profit of at least 1161€, by targeting 20% of their customers. 
